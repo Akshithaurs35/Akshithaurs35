@@ -1,10 +1,10 @@
 <!-- ========== ANIMATED BANNER ========== --> 
 <p align="center"> <img src="./akshitha_olive_devops_animated_banner.gif" width="100%" alt="akshitha_olive_devops_animated_banner.gif"/> </p> <p align="center"><img src="./banner-dark.gif" height="84" align="middle" alt="Hi, I'm Akshitha Urs M C"/> 👋</p> <p align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></p> <p align="center"> Building, Automating, Deploying and Learning 🚀 </p> <br/> 
-<!-- ========== ABOUT ME + SIDE GIF ========== --> <p>👨‍💻 <img src="./h_about.svg" height="72" align="middle" alt="About Me"/></p>
+<!-- ========== ABOUT ME + SIDE GIF ========== --> <p>👨‍💻 <img src="./h_about.svg.png" height="65" align="middle" alt="About Me"/></p>
 
 <img align="right" src="./devops_tools.gif" width="320" alt="DevOps coding animation"/>
 
-<ul> <li>🎓 B.E. graduate in Electronics and Communication Engineering</li> <li>🚀 Aspiring DevOps / CI/CD Engineer</li> <li>🛠️ Practising Git, GitHub, Jenkins, Docker, Linux and AWS EC2</li> <li>💻 Building hands-on DevOps projects</li> <li>🌱 Learning CI/CD automation and cloud deployment</li> <li>🎯 Working towards an entry-level DevOps engineering role</li> </ul> <br clear="right"/> <br/> <!-- ========== CONNECT WITH ME + GIF ON THE RIGHT ========== --> <p>🤝 <img src="./h_connect.svg" height="72" align="middle" alt="Connect with Me"/></p>
+<ul> <li>🎓 B.E. graduate in Electronics and Communication Engineering</li> <li>🚀 Aspiring DevOps / CI/CD Engineer</li> <li>🛠️ Practising Git, GitHub, Jenkins, Docker, Linux and AWS EC2</li> <li>💻 Building hands-on DevOps projects</li> <li>🌱 Learning CI/CD automation and cloud deployment</li> <li>🎯 Working towards an entry-level DevOps engineering role</li> </ul> <br clear="right"/> <br/> <!-- ========== CONNECT WITH ME + GIF ON THE RIGHT ========== --> <p>🤝 <img src="./h_connect.svg.png" height="65" align="middle" alt="Connect with Me"/></p>
 
 <img align="right" src="./connect_with_me.gif" width="260" alt="Let's connect animation"/>
 
