@@ -1,5 +1,5 @@
 <!-- ========== ANIMATED BANNER ========== --> 
-<p align="center"> <img src="./akshitha_devops_typing_animation.gif" width="100%" alt="akshitha_devops_typing_animation.gif"/> </p> <p align="center"><img src="./banner-dark.gif" height="84" align="middle" alt="Hi, I'm Akshitha Urs M C"/> 👋</p> <p align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></p> <p align="center"> Building, Automating, Deploying and Learning 🚀 </p> <br/> 
+<p align="center"> <img src="./akshitha_olive_devops_animated_banner.gif" width="100%" alt="akshitha_olive_devops_animated_banner.gif"/> </p> <p align="center"><img src="./banner-dark.gif" height="84" align="middle" alt="Hi, I'm Akshitha Urs M C"/> 👋</p> <p align="center"><img src="./h_sub.svg" height="67" align="middle" alt="Aspiring DevOps / CI/CD Engineer"/></p> <p align="center"> Building, Automating, Deploying and Learning 🚀 </p> <br/> 
 <!-- ========== ABOUT ME + SIDE GIF ========== --> <p>👨‍💻 <img src="./h_about.svg" height="72" align="middle" alt="About Me"/></p>
 
 <img align="right" src="./devops_tools.gif" width="320" alt="DevOps coding animation"/>
